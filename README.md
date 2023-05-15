@@ -4,7 +4,7 @@ Vivo a Roma, da anni sono appassionato al mondo della tecnologia e della program
 
 ### Contattami
 
-<a href="mailto:leonardo.martignonii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/leonardo-martignoni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/CV-0A0A0A?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+<a href="mailto:leonardo.martignonii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/leonardo-martignoni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/CV-231f20?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 
 ### Tecnologie
 
