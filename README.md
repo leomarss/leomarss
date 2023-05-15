@@ -1,6 +1,6 @@
-## Ciao! Sono Leonardo.
+# Ciao! Sono Leonardo.
 
-Jr. Full Stack Web Developer
+Vivo a Roma, da anni sono appassionato al mondo della tecnologia e della programmazione.
 
 ### Contattami
 
