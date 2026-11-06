@@ -1,30 +1,28 @@
-# 👋 Hi, I'm Leonardo
+```console
+leo@rome:~$ whoami
+Leonardo, backend developer based in Rome, Italy
 
-I'm a web developer based in Rome with a strong passion for technology and clean, efficient code.  
-I enjoy building intuitive and scalable applications, always aiming to improve and learn something new along the way.
+leo@rome:~$ cat bio.txt
+I write code, break things, and learn fast.
+APIs, databases, server-side logic, and small CLI tools that save me a few seconds a day.
 
-### 📬 Get in touch
+leo@rome:~$ ls ~/projects --featured
+timo/                   2FA codes in your terminal, encrypted at rest       [python]
+commithink/             Conventional Commits from your diff, via local LLM  [python]
 
-<a href="mailto:leonardo.martignonii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/leonardo-martignoni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://drive.google.com/file/d/1n4pFsMisrQxFfmU4kdg8gU0_YA4ncJAA/view"><img src="https://img.shields.io/badge/CV-231f20?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+leo@rome:~$ cat stack.json
+{
+  "languages": ["Python", "PHP", "SQL"],
+  "backend":   ["REST APIs", "MySQL", "Apache", "Linux"],
+  "tools":     ["Git", "Docker", "Bash", "PyPI"]
+}
 
-### 🧰 Tech Stack
+leo@rome:~$ timo github
+✓ copied 482 913 to clipboard   # yes, this is a real tool
 
-Here are some of the technologies I work with regularly:
+leo@rome:~$ cat contact.yml
+email:    leonardo.martignonii@gmail.com
+linkedin: in/leonardo-martignoni
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> ...and more
-
-I'm always open to learning new tools and frameworks to improve my workflow and deliver better solutions.
-
-
-### 📁 Featured Projects
-
-You can explore some of my most recent and interesting repositories [here](https://github.com/leomarss?tab=repositories), including:
-
-- Frontend and backend web apps
-- Lightweight command-line tools
-- UI replications and layout exercises
-
-
-Thanks for stopping by! 👋
+leo@rome:~$ █
+```
