@@ -3,7 +3,7 @@ leo@rome:~$ whoami
 Leonardo, backend developer based in Rome, Italy
 
 leo@rome:~$ cat bio.txt
-I write code, break things, and learn fast.
+I build the parts of the app nobody sees, and the scripts nobody asked for.
 APIs, databases, server-side logic, and small CLI tools that save me a few seconds a day.
 
 leo@rome:~$ ls ~/projects --featured
